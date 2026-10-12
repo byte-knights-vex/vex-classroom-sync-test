@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "students": [
+    {
+      "id": "alex",
+      "displayName": "Alex T13",
+      "commitEmail": "alex.renamed@example.org",
+      "pinSalt": "0123456789abcdef0123456789abcdef",
+      "pinHash": "ae60819222c8c4c5e7a63dd250d88f4913926c0ca96d4fcd0accb1b14b34fc7e"
+    },
+    {
+      "id": "bea",
+      "displayName": "Bea T13",
+      "commitEmail": "bea.t13@example.org",
+      "pinSalt": "fedcba9876543210fedcba9876543210",
+      "pinHash": "3c209faa0541cfab3bab34b6fa5c9e11edd422366ef75e1663e6708fca1fb073"
+    },
+    {
+      "id": "cal",
+      "displayName": "Cal T13 (repo roster)",
+      "commitEmail": "cal.t13@example.org",
+      "pinSalt": "00112233445566778899aabbccddeeff",
+      "pinHash": "accbc08e9277700880cd444acb5e0ba92279bd9d2696120b1b5ee8913c13a3f5"
+    }
+  ]
+}
